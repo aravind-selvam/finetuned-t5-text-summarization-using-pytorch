@@ -1,0 +1,10 @@
+pytorch_lightning
+transformers
+scikit-learn
+pandas
+from_root
+torch
+flask
+flask_cors
+
+-e.

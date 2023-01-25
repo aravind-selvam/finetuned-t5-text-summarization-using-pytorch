@@ -1,0 +1,9 @@
+artifacts/
+lighting_logs/
+logs/
+prediction_artifacts/
+Text_Summarization_Pytorch.egg-info/
+notebooks/
+demo.py
+templete.py
+venv/
